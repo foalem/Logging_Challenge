@@ -1,0 +1,628 @@
+Tag,Final_Label
+submitchanges,Database Concepts
+aws-sdk-java-2.0,Platform/Server
+log4javascript,Programming Language
+int,Programming Concepts
+hybrid-mobile-app,Framework/Library
+virtualenv,Programming Concepts
+passport.js,Programming Concepts
+user-input,Programming Concepts
+openstack-keystone,Platform/Server
+testcase,Programming Concepts
+carthage,Framework/Library
+aws-cloudwatch-log-insights,Platform/Server
+homebrew,Framework/Library
+fgetcsv,Programming Concepts
+android-emulator,Tool/IDE
+c++-cli,Programming Language
+rhel7,Operating System (OS)
+rust-warp,Programming Language
+windows-server-2008,Platform/Server
+module-info,Programming Concepts
+xunit.net,Tool/IDE
+iis-7,Platform/Server
+vps,Platform/Server
+exception,Programming Concepts
+pentaho-design-studio,Tool/IDE
+rubocop,Programming Language
+traefik,Framework/Library
+tomcat8,Platform/Server
+overriding,Programming Concepts
+magic-methods,Programming Concepts
+graalvm,Tool/IDE
+gitversion,Tool/IDE
+spam-prevention,Other
+facebook-scribe,Platform/Server
+apache-phoenix,Platform/Server
+build-error,Tool/IDE
+biginteger,Programming Concepts
+cocos2d-iphone,Framework/Library
+asp-net-core-spa-services,Programming Concepts
+moss,Programming Concepts
+python-rq,Programming Language
+firebase-storage,Platform/Server
+jtextpane,Programming Concepts
+keyword-argument,Programming Concepts
+biometrics,Programming Concepts
+font-awesome,Programming Concepts
+unreliable-connection,Programming Concepts
+spring-java-config,Programming Concepts
+cs4,Programming Concepts
+django-1.10,Framework/Library
+python-unicode,Programming Concepts
+ampl,Programming Concepts
+nsq,Platform/Server
+variables,Programming Concepts
+join,Database Concepts
+format-string,Programming Concepts
+hgsubversion,Framework/Library
+lando,Framework/Library
+rmagick,Framework/Library
+geode,Programming Concepts
+pydantic,Framework/Library
+slack,Tool/IDE
+signalfx,Platform/Server
+git-flow,DevOps Tools
+iis-5,Platform/Server
+phonegap,Framework/Library
+flashback,Database Concepts
+prometheus,Tool/IDE
+accumulo,Tool/IDE
+getattr,Programming Concepts
+quantization,Machine Learning Concepts
+bind,Programming Concepts
+vuejs2,Framework/Library
+chord-diagram,Programming Concepts
+jsr352,Programming Concepts
+nodes,Framework/Library
+rrdtool,Tool/IDE
+security,Security Concepts
+symfony-3.3,Framework/Library
+yolov4,Machine Learning Concepts
+browser-history,Security Concepts
+sanitization,Security Concepts
+detection,Security Concepts
+line,Programming Concepts
+apache,Platform/Server
+facebook-audience-network,Framework/Library
+jtextcomponent,Programming Concepts
+nginx-ingress,Platform/Server
+lcc-win32,Programming Concepts
+nodemon,Tool/IDE
+selenium-extent-report,Framework/Library
+user-profile,Programming Concepts
+spi,Operating System (OS)
+protected,Security Concepts
+google-sheets-api,Programming Concepts
+newsletter,Other
+tibco,Platform/Server
+amazon-elastic-beanstalk,Platform/Server
+salesforce,Platform/Server
+ios4,Operating System (OS)
+terminate,Programming Concepts
+google-chrome,Tool/IDE
+django-cms,Framework/Library
+oracle-apex,Platform/Server
+volume,Database Concepts
+winston,Framework/Library
+eval,Machine Learning Concepts
+probe,Programming Concepts
+gyroscope,Tool/IDE
+imblearn,Machine Learning Concepts
+internal,Programming Concepts
+classloader,Programming Concepts
+appkit,Tool/IDE
+gitlab-api,DevOps Tools
+spark-ar-studio,Tool/IDE
+eventsource,Programming Concepts
+ngrx,Framework/Library
+vcs-checkout,Tool/IDE
+ssmtp,Tool/IDE
+android-12,Programming Language
+mod-perl2,Tool/IDE
+linq-to-xml,Programming Concepts
+testng-eclipse,Tool/IDE
+azure-ad-b2c,Tool/IDE
+phpfox,Platform/Server
+autogpt,Machine Learning Concepts
+celluloid,Programming Concepts
+sequelize-typescript,Programming Concepts
+oracle-adf,Framework/Library
+elasticsearch-painless,Programming Language
+runjettyrun,Tool/IDE
+rescue,Tool/IDE
+chilkat,Framework/Library
+mavanagaiata,Tool/IDE
+archlinux-arm,Operating System (OS)
+accountmanager,Programming Concepts
+gbk,Tool/IDE
+google-closure-library,Framework/Library
+iboutletcollection,Programming Concepts
+google-cloud-kms,Platform/Server
+umbraco7,Framework/Library
+react-context,Framework/Library
+jakarta-migration,Platform/Server
+bamboo,DevOps Tools
+text-classification,Machine Learning Concepts
+rc4-cipher,Tool/IDE
+gitlab,DevOps Tools
+mod-proxy-wstunnel,Tool/IDE
+camera,Tool/IDE
+samsung-mobile,Programming Language
+postgresql-11,Tool/IDE
+minify,Programming Concepts
+spark-framework,Framework/Library
+keras-2,Machine Learning Concepts
+facebooker,Tool/IDE
+testng,Framework/Library
+selenide,Framework/Library
+pyarrow,Framework/Library
+loopback3,Framework/Library
+azure-webapps,Platform/Server
+azure-log-analytics,Tool/IDE
+darcs,Tool/IDE
+jwilder-nginx-proxy,Tool/IDE
+indexing,Programming Concepts
+azure-secrets,Tool/IDE
+interception,Security Concepts
+winui,Framework/Library
+blog-engine,Platform/Server
+webdriver-manager,Framework/Library
+pi,Programming Concepts
+credential-manager,Security Concepts
+haml,Programming Language
+cut,Programming Concepts
+pyramid,Programming Concepts
+teamcity,DevOps Tools
+put,Programming Concepts
+simevents,Tool/IDE
+olap,Database Concepts
+google-play,Platform/Server
+fill,Programming Concepts
+maps,Programming Concepts
+uitextfield,Programming Concepts
+dwr,Framework/Library
+rjdbc,Programming Concepts
+webapi2,Framework/Library
+rails-i18n,Programming Concepts
+collections,Database Concepts
+netstat,Tool/IDE
+elixir-mix,Tool/IDE
+load-data-infile,Database Concepts
+twistd,Framework/Library
+reporting-services,Database Concepts
+mysql-5.1,Tool/IDE
+hive-metastore,Database Concepts
+bearer-token,Security Concepts
+apache-commons,Platform/Server
+method-modifier,Programming Concepts
+dllimport,Programming Concepts
+genexus,Platform/Server
+serilog.sinks.mssqlserver,Database Concepts
+atlasboard,Framework/Library
+servicemanager,Programming Concepts
+capacitor,Programming Concepts
+httpconnection,Tool/IDE
+docker-for-mac,DevOps Tools
+kvm,Tool/IDE
+gssapi,Security Concepts
+fileutils,Programming Concepts
+mathematica-8,Programming Concepts
+guid,Programming Concepts
+php-7.4,Programming Language
+least-squares,Machine Learning Concepts
+filenotfoundexception,Programming Concepts
+jtidy,Programming Concepts
+fft,Other
+event-dispatch-thread,Programming Concepts
+citrus-framework,Framework/Library
+jdo,Programming Concepts
+oracle,Tool/IDE
+versionupgrade,Operating System (OS)
+alluxio,Platform/Server
+nsmanagedobjectcontext,Programming Concepts
+apache-fop,Platform/Server
+machinist,Other
+pointer-address,Programming Concepts
+symfony6,Framework/Library
+nedb,Database Concepts
+processors,Operating System (OS)
+mediator,Programming Concepts
+installscript,Programming Concepts
+colorbar,Programming Concepts
+webtrends,Programming Concepts
+runtime,Programming Concepts
+javafx-8,Framework/Library
+zeroconf,Platform/Server
+tankauth,Framework/Library
+delta-live-tables,Database Concepts
+uwp,Other
+capistrano3,Framework/Library
+ib-insync,Framework/Library
+dll,Tool/IDE
+variadic-macros,Operating System (OS)
+engineyard,Platform/Server
+projector,Tool/IDE
+lxd,Framework/Library
+waffle,Other
+vhosts,Platform/Server
+low-latency,Programming Concepts
+jaybird,Other
+notifications,Programming Concepts
+quickfix,Framework/Library
+graphexp,Tool/IDE
+promise,Programming Concepts
+underscore-java,Programming Concepts
+configuration-management,Programming Concepts
+mouse,Tool/IDE
+web-parts,Programming Concepts
+process,Operating System (OS)
+ipsec,Programming Concepts
+docker-in-docker,DevOps Tools
+outlook,Tool/IDE
+refined,Programming Concepts
+adt,Programming Concepts
+bacula,Tool/IDE
+foursquare,Programming Concepts
+seq2seq,Machine Learning Concepts
+xpointer,Framework/Library
+runnable-jar,Programming Concepts
+cpython,Programming Concepts
+permission-denied,Security Concepts
+h2o,Other
+android-diffutils,Operating System (OS)
+python-3.2,Programming Language
+sampling,Programming Concepts
+backup-sqldatabase,Database Concepts
+jacorb,Framework/Library
+google-maps-api-3,Framework/Library
+python,Programming Language
+web-platform-installer,Platform/Server
+blueprint-osgi,Framework/Library
+weblogic14c,Tool/IDE
+distributed-tracing,Security Concepts
+spock,Other
+modal-dialog,Programming Concepts
+tpu,Machine Learning Concepts
+cpu,Machine Learning Concepts
+apache-modules,Platform/Server
+k3s,DevOps Tools
+measure,Other
+growl-for-windows,Operating System (OS)
+microsoft.build,Operating System (OS)
+reset,Programming Concepts
+jeditorpane,Programming Concepts
+selenium-grid,Framework/Library
+jax,Framework/Library
+wiki,Programming Concepts
+httplistener,Programming Concepts
+thorntail,Operating System (OS)
+discrete-mathematics,Other
+spark-graphx,Framework/Library
+node-request,Programming Concepts
+unity-interception,Programming Concepts
+raspbian,Operating System (OS)
+bdc,Other
+laravel-5.8,Framework/Library
+prolog,Programming Language
+pygraphviz,Programming Concepts
+jbehave,Framework/Library
+breadcrumbs,Other
+csplit,Programming Concepts
+eclipse-rcp,Tool/IDE
+oraclecommand,Database Concepts
+git-stash,DevOps Tools
+google-geocoder,Tool/IDE
+runas,Operating System (OS)
+docker-buildkit,DevOps Tools
+impala,Other
+ethereumj,Framework/Library
+laravel-blade,Framework/Library
+shoulda,Other
+soap-client,Programming Concepts
+generative-adversarial-network,Machine Learning Concepts
+ubuntu-11.10,Operating System (OS)
+spaces,Database Concepts
+tslog,Framework/Library
+azure-file-share,Platform/Server
+java-11,Programming Language
+cvxpy,Framework/Library
+dart-pub,Programming Concepts
+feature-file,Programming Concepts
+undo,Other
+aptana3,Framework/Library
+jython,Programming Concepts
+asp.net-4.5,Framework/Library
+openerp-8,Tool/IDE
+editing,Programming Concepts
+intellij-plugin,Tool/IDE
+kubernetes-operator,DevOps Tools
+facebook-messenger,Tool/IDE
+swc,Framework/Library
+rdd,Database Concepts
+ubuntu,Operating System (OS)
+multiple-users,Programming Concepts
+turtle-rdf,Database Concepts
+iis,Platform/Server
+shopify,Tool/IDE
+trinidad-gem,Platform/Server
+hyperloglog,Programming Concepts
+smbj,Framework/Library
+blogger-dynamic-views,Programming Concepts
+git-log,DevOps Tools
+hive,Tool/IDE
+android-espresso,Operating System (OS)
+sniffer,Other
+methods,Programming Concepts
+googlemock,Framework/Library
+wcf,Framework/Library
+crud,Database Concepts
+row,Database Concepts
+boto3,Framework/Library
+basichttpbinding,Programming Concepts
+castle-dynamicproxy,Programming Concepts
+ios-ui-automation,Programming Concepts
+android-pendingintent,Programming Concepts
+cobertura,Framework/Library
+designer,Programming Concepts
+ssis-2016,Tool/IDE
+google-chrome-headless,Tool/IDE
+angularjs-ng-repeat,Programming Concepts
+standby,Other
+replay,Programming Concepts
+memory-management,Programming Concepts
+dapr,Framework/Library
+bitronix,Other
+okhttp,Framework/Library
+liquibase-maven-plugin,Programming Concepts
+dalli,Other
+airflow-webserver,Platform/Server
+fflush,Programming Concepts
+mariasql,Tool/IDE
+ipv4,Programming Concepts
+proto,Other
+ansible-inventory,DevOps Tools
+custom-build,Programming Concepts
+utility,Programming Concepts
+dfc,Other
+rails-activestorage,Database Concepts
+android-sdcard,Operating System (OS)
+xml-validation,Programming Concepts
+directed-acyclic-graphs,Programming Concepts
+server-error,Programming Concepts
+process-monitoring,Programming Concepts
+extras,Programming Concepts
+rufus-scheduler,Programming Concepts
+leanft,Programming Concepts
+async-await,Programming Concepts
+errorformat,Programming Concepts
+bundle,Programming Concepts
+ksh,Programming Concepts
+servlet-container,Programming Concepts
+stack-overflow,Tool/IDE
+tox,Programming Concepts
+jface,Programming Concepts
+entity-framework-5,Framework/Library
+threshold,Machine Learning Concepts
+cluster-computing,Machine Learning Concepts
+rdbms,Database Concepts
+libunwind,Framework/Library
+azure-iot-hub-device-management,Platform/Server
+rgl,Other
+maven-dependency,Programming Concepts
+collabnet,Tool/IDE
+format-specifiers,Programming Concepts
+google-analytics,Platform/Server
+wxpython,Programming Concepts
+onestepcheckout,Programming Concepts
+ws-client,Tool/IDE
+taskdef,Programming Concepts
+data-science,Machine Learning Concepts
+java-web-start,Programming Concepts
+spring-vault,Programming Concepts
+overwrite,Programming Concepts
+ubuntu-14.04,Operating System (OS)
+file-writing,Programming Concepts
+log4cpp,Programming Concepts
+mediawiki,Tool/IDE
+reliability,Machine Learning Concepts
+bridge,Programming Concepts
+fastapi-middleware,Programming Concepts
+opengl-es-2.0,Tool/IDE
+acl,Programming Concepts
+stata,Programming Concepts
+token,Programming Concepts
+firephp,Programming Concepts
+java-stream,Programming Concepts
+spring-cloud-feign,Programming Concepts
+lookbehind,Programming Concepts
+sqlcode,Database Concepts
+angular1.6,Framework/Library
+seq-logging,Programming Concepts
+vcpkg,Programming Concepts
+asp.net-core-mvc-2.1,Programming Concepts
+netfilter,Programming Concepts
+apache-kafka,Framework/Library
+nexe,Programming Concepts
+apache-pulsar,Programming Concepts
+ilogger,Programming Concepts
+httpmodule,Programming Concepts
+net-snmp,Programming Concepts
+dotfiles,Programming Concepts
+local,Programming Concepts
+clip,Programming Concepts
+windows-server-2019,Tool/IDE
+firewall,Programming Concepts
+stack-navigator,Programming Concepts
+pandoc,Framework/Library
+localization,Programming Concepts
+snapshot,Programming Concepts
+backout,Programming Concepts
+intercom,Programming Concepts
+visual-web-developer,Programming Concepts
+qradar,Programming Concepts
+complexity-theory,Machine Learning Concepts
+jdi,Other
+doctrine-orm,Programming Concepts
+publish-trimmed,Programming Concepts
+splunk-calculation,Programming Concepts
+naming,Programming Concepts
+keywindow,Programming Concepts
+kamon,Programming Concepts
+csound,Programming Concepts
+testify,Programming Concepts
+office365api,Tool/IDE
+info.plist,Programming Concepts
+code-composer,Programming Concepts
+jpql,Programming Concepts
+image-compression,Programming Concepts
+information-schema,Programming Concepts
+superdesk,Programming Concepts
+control-m,Programming Concepts
+omniauth,Programming Concepts
+statusbar,Programming Concepts
+catel,Programming Concepts
+reverse-shell,Programming Concepts
+start-process,Programming Concepts
+fluent-interface,Programming Concepts
+keycloak-services,Programming Concepts
+database-backups,Database Concepts
+java-module,Programming Concepts
+rackspace,Framework/Library
+user-permissions,Programming Concepts
+json-api,Programming Concepts
+nrwl-nx,Operating System (OS)
+analytics,Framework/Library
+knex.js,Framework/Library
+checkstyle,Programming Concepts
+dotfuscator,Framework/Library
+embedded-jetty,Programming Concepts
+keyboard,Tool/IDE
+guidewire,Programming Concepts
+spring-security-oauth2,Programming Concepts
+spark-java,Programming Concepts
+face-recognition,Machine Learning Concepts
+nls,Other
+ompl,Framework/Library
+uberjar,Programming Concepts
+ef4-code-only,Programming Concepts
+backslash,Programming Concepts
+retrofit,Other
+version-control-migration,DevOps Tools
+proximity,Programming Concepts
+grid-search,Machine Learning Concepts
+keystroke,Other
+drupal-8,Framework/Library
+windows-7,Operating System (OS)
+memory,Programming Concepts
+innerhtml,Programming Concepts
+truffle,Other
+svn-update,DevOps Tools
+login-script,Programming Concepts
+java-compiler-api,Programming Concepts
+azure-synapse,Platform/Server
+freopen,Programming Concepts
+python-internals,Programming Concepts
+materialized-views,Programming Concepts
+truncate,Other
+mattermost,Framework/Library
+osx-leopard,Operating System (OS)
+single-sign-on,Programming Concepts
+berkeley-db,Tool/IDE
+mariadb,Tool/IDE
+sum,Programming Concepts
+signature,Programming Concepts
+vector,Programming Concepts
+database-agnostic,Database Concepts
+i18next,Framework/Library
+rhel5,Operating System (OS)
+python-requests,Programming Concepts
+jaspic,Programming Concepts
+network-programming,Programming Concepts
+agents-jade,Framework/Library
+sql-server-2016,Tool/IDE
+data-transform,Database Concepts
+dynamics-crm-2011,Database Concepts
+kubernetes-apiserver,DevOps Tools
+grails,Framework/Library
+cofundos,Framework/Library
+mailcore2,Framework/Library
+xcode-command-line-tools,Tool/IDE
+console-application,Programming Concepts
+pascal,Programming Language
+imagick,Framework/Library
+opscenter,Platform/Server
+vscode-debugger,Tool/IDE
+pyo3,Programming Concepts
+okta-api,Programming Concepts
+garbage-collection,Programming Concepts
+sparkr,Framework/Library
+msdn,Platform/Server
+social-framework,Framework/Library
+transactions,Database Concepts
+sql-timestamp,Database Concepts
+node.js-connect,Programming Concepts
+openssl,Framework/Library
+browser,Tool/IDE
+setattribute,Programming Concepts
+jbatch,Platform/Server
+datakey,Database Concepts
+sudo,Operating System (OS)
+mail-server,Platform/Server
+azure,Platform/Server
+itrs,Tool/IDE
+mod-security,Security Concepts
+coldfusion-8,Framework/Library
+hwnd,Programming Concepts
+disconnect,Programming Concepts
+libgit2sharp,Programming Concepts
+zend-framework3,Framework/Library
+bytecode-manipulation,Programming Concepts
+expo,Programming Concepts
+application-management,Programming Concepts
+ros,Other
+spoon,Other
+rollbar,Programming Concepts
+typhoon-kubernetes,DevOps Tools
+blazemeter,DevOps Tools
+stubbing,Other
+systemd,Operating System (OS)
+polygons,Programming Concepts
+pykafka,Framework/Library
+oracle-commerce,Tool/IDE
+policy-injection,Programming Concepts
+grafana-alerts,Programming Concepts
+firebase-hosting,Platform/Server
+tinkerpop,Framework/Library
+gridfs,Database Concepts
+atom-feed,Framework/Library
+spotipy,Framework/Library
+seeeduino,Operating System (OS)
+dbms-output,Database Concepts
+electron,Programming Concepts
+invalid-argument,Programming Concepts
+serve,Platform/Server
+delayed-job,Programming Concepts
+unified-log,Programming Concepts
+hal,Programming Concepts
+sorcery,Programming Concepts
+xterm,Programming Concepts
+jsch,Programming Concepts
+webpack-serve,Programming Concepts
+install4j,Framework/Library
+request,Programming Concepts
+chef-recipe,Programming Concepts
+event-loop,Programming Concepts
+net-ssh,Programming Concepts
+capture-group,Programming Concepts
+maven-profiles,Programming Concepts
+vuejs-routing,Framework/Library
+nxbre,Programming Concepts
+application.conf,Programming Concepts
+call-graph,Programming Concepts
+audio,Programming Concepts
+nano,Programming Concepts
+bluetooth,Tool/IDE
+google-cloud-logging,Platform/Server
+azureportal,Platform/Server
+spring-cloud-contract,Tool/IDE
